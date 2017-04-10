@@ -1,5 +1,5 @@
 # Krakatoa-Shoutbox
-Krakatoa Shoutbox is a powerful shoutbox platform built for Invasion Power Board (iPB)
+Krakatoa Shoutbox is a powerful shoutbox platform built for Invision Power Board (iPB)
 
 ##   NOTE:  
    ALPHA Branch contains all 'nightly' builds.  

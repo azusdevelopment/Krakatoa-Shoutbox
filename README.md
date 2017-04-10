@@ -1,2 +1,11 @@
 # Krakatoa-Shoutbox
- Preview changes 1 # Krakatoa-Shoutbox 2 Krakatoa Shoutbox is a powerful shoutbox platform built for Invasion Power Board (iPB) 3 ​ 4    NOTE:   5    ALPHA Branch contains all 'nightly' builds.   6    BETA Branch contains all test builds.   7    MASTER Branch contains all stable 'GM' builds.   8 ​ 9 ​ 10    PLEASE READ!!!   11    For support please visit the Krakatoa Shoutbox Support thread on ConsoleGods.   12    *(https://consolegods.com/topic/1519-krakatoa-shoutbox-support/)*   13
+Krakatoa Shoutbox is a powerful shoutbox platform built for Invasion Power Board (iPB)
+
+   NOTE:  
+   ALPHA Branch contains all 'nightly' builds.  
+   BETA Branch contains all test builds.  
+   MASTER Branch contains all stable 'GM' builds.  
+   
+   PLEASE READ!!!  
+   For support please visit the Krakatoa Shoutbox Support thread on ConsoleGods.  
+   *(https://consolegods.com/topic/1519-krakatoa-shoutbox-support/)*  
